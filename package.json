@@ -1,0 +1,24 @@
+{
+  "name": "connect-request-data-logger",
+  "description": "A middleware for logging request data.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Alex Zlotnik",
+    "email": "zlotnika@gmail.com"
+  },
+  "keywords": [
+    "connect",
+    "log",
+    "request",
+    "query",
+    "body",
+    "output"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zlotnika/connect-request-data-logger.git"
+  },
+  "devDependencies": {
+    "connect": "~2.12.0"
+  }
+}
